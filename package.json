@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "buffer-image-size": "^0.6.4",
-    "docx": "^8.5.0",
+    "docx": "^9.2.0",
     "prosemirror-model": "^1.18.1"
   },
   "devDependencies": {
