@@ -47,7 +47,7 @@
   "dependencies": {
     "buffer-image-size": "^0.6.4",
     "docx": "^8.5.0",
-    "prosemirror-model": "^1.18.1"
+    "prosemirror-model": "^1.24.1"
   },
   "devDependencies": {
     "@babel/plugin-proposal-optional-chaining": "^7.18.6",
